@@ -1,0 +1,838 @@
+{
+    " afghanistan": [
+        "kblamb@um.dk"
+    ],
+    " albania": [
+        "vieamb@um.dk",
+        "vieamb@um.dk",
+        "tirana@umgate.dk"
+    ],
+    " algeriet": [
+        "algamb@um.dk",
+        "BBB@um.dk"
+    ],
+    " andorra": [
+        "madamb@um.dk",
+        "madamb@um.dk"
+    ],
+    " angola": [
+        "pryamb@um.dk",
+        "pryamb@um.dk",
+        "robmas@umgate.dk"
+    ],
+    " antigua og barbuda": [
+        "wasamb@um.dk",
+        "wasamb@um.dk",
+        "mogahr@umgate.dk"
+    ],
+    " argentina": [
+        "bueamb@um.dk ",
+        "bueambVISA@um.dk"
+    ],
+    " armenien": [
+        "ievamb@um.dk",
+        "ievamb@um.dk",
+        "gaggyu@umgate.dk"
+    ],
+    " aserbajdsjan": [
+        "ankamb@um.dk",
+        "ankamb@um.dk",
+        "arngov@umgate.dk"
+    ],
+    " australien": [
+        "cbramb@um.dk"
+    ],
+    " bahamas": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "piafar@umgate.dk"
+    ],
+    " bahrain": [
+        "ruhamb@um.dk",
+        "ruhamb@um.dk"
+    ],
+    " bangladesh": [
+        "dacamb@um.dk"
+    ],
+    " barbados": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "bripol@um.dk"
+    ],
+    " belgien": [
+        "bruamb@um.dk"
+    ],
+    " belize": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "staeme@umgate.dk"
+    ],
+    " benin": [
+        "ouaamb@um.dk",
+        "ouaamb@um.dk",
+        "davjam@umgate.dk"
+    ],
+    " bhutan": [
+        "delamb@um.dk",
+        "delamb@um.dk",
+        "thimphu@umgate.dk"
+    ],
+    " bolivia": [
+        "bogamb@um.dk",
+        "bogamb@um.dk",
+        "marsua@umgate.dk",
+        "pabmor@umgate.dk"
+    ],
+    " bosnia-herzegovina": [
+        "begamb@um.dk",
+        "begamb@um.dk",
+        "sarajevo@umgate.dk"
+    ],
+    " botswana": [
+        "pryamb@um.dk",
+        "pryamb@um.dk",
+        "leibek@umgate.dk"
+    ],
+    " brazil": [
+        "bsbamb@um.dk",
+        "saogkl@um.dkhttp://brasilien.um.dk"
+    ],
+    " brunei": [
+        "sinamb@um.dk",
+        "sinamb@um.dk"
+    ],
+    " bulgarien": [
+        "sofamb@um.dk"
+    ],
+    " burkina faso": [
+        "ouaamb@um.dk",
+        "ouaambvisa@um.dk"
+    ],
+    " burundi": [
+        "kmtamb@um.dk",
+        "kmtamb@um.dk",
+        "micand@umgate.dk"
+    ],
+    " cambodja": [
+        "bkkamb@um.dk",
+        "bkkamb@um.dk",
+        "phnompenh@umgate.dk"
+    ],
+    " cameroun": [
+        "abvamb@um.dk",
+        "abvamb@um.dk"
+    ],
+    " canada": [
+        "ottamb@um.dk"
+    ],
+    " chile": [
+        "sclamb@um.dk"
+    ],
+    " china": [
+        "bjsamb@um.dk"
+    ],
+    " comorerne": [
+        "daramb@um.dk",
+        "daramb@um.dk"
+    ],
+    " congo brazzaville": [
+        "kmtamb@um.dk",
+        "kmtamb@um.dk",
+        "jeatou@umgate.dk"
+    ],
+    " costa rica": [
+        "bogamb@um.dk",
+        "bogamb@um.dk",
+        "jannie@um.dk"
+    ],
+    " croatia": [
+        "zagamb@um.dk"
+    ],
+    " cuba": [
+        "mexamb@um.dk",
+        "mexamb@um.dk"
+    ],
+    " cypern": [
+        "athamb@um.dk",
+        "athamb@um.dk",
+        "nicosia@umgate.dk"
+    ],
+    " de forenede arabiske emirater": [
+        "auhamb@um.dk",
+        "dxbhkt@um.dk",
+        "dxbgkl@um.dk",
+        "dxbgklvisa@um.dk",
+        "dxbgklsik@um.dk"
+    ],
+    " den centralafrikanske republik": [
+        "abvamb@um.dk",
+        "abvamb@um.dk"
+    ],
+    " den demokratiske folkerepublik korea": [
+        "selamb@um.dk",
+        "selamb@um.dk"
+    ],
+    " den demokratiske republik congo": [
+        "kmtamb@um.dk",
+        "kmtamb@um.dk",
+        "jeatou@umgate.dk"
+    ],
+    " djibouti": [
+        "addamb@um.dk",
+        "addamb@um.dk",
+        "MicIzz@umgate.dk"
+    ],
+    " dominica": [
+        "mexamb@um.dk",
+        "mexamb@um.dk"
+    ],
+    " dominikanske republik": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "svehol@umgate.dk"
+    ],
+    " ecuador": [
+        "sclamb@um.dk",
+        "sclamb@um.dk",
+        "quito@umgate.dk"
+    ],
+    " egypten": [
+        "caiamb@um.dk",
+        "caiambsik@um.dk"
+    ],
+    " elfenbenskysten": [
+        "accamb@um.dk",
+        "accamb@um.dk",
+        "abidjan@umgate.dk"
+    ],
+    " eritrea": [
+        "nboamb@um.dk",
+        "nboamb@um.dk"
+    ],
+    " eswatini": [
+        "pryamb@um.dk",
+        "pryamb@um.dk",
+        "pernod@umgate.dk"
+    ],
+    " ethiopia": [
+        "addamb@um.dk"
+    ],
+    " fiji": [
+        "cbramb@um.dk",
+        "cbramb@um.dk",
+        "jensee@umgate.dk",
+        "jensee@umgate.dk"
+    ],
+    " finland": [
+        "helamb@um.dk",
+        "helambconsular@um.dk"
+    ],
+    " frankrig": [
+        "paramb@um.dk",
+        "parambsik@um.dk",
+        "BBB@um.dk"
+    ],
+    " gabon": [
+        "abvamb@um.dk",
+        "abvamb@um.dk"
+    ],
+    " gambia": [
+        "bkoamb@um.dk",
+        "bkoamb@um.dk",
+        "danishconsulatebanjul@gmail.com"
+    ],
+    " georgien": [
+        "ievamb@um.dk",
+        "ievamb@um.dk",
+        "EsbEmb@umgate.dk"
+    ],
+    " ghana": [],
+    " grenada": [
+        "mexamb@um.dk",
+        "mexamb@um.dk"
+    ],
+    " gr\u00e6kenland": [
+        "athamb@um.dk"
+    ],
+    " guatemala": [
+        "mexamb@um.dk",
+        "mexamb@um.dk"
+    ],
+    " guinea": [
+        "accamb@um.dk",
+        "accamb@um.dk"
+    ],
+    " guinea-bissau": [
+        "lisamb@um.dk",
+        "lisamb@um.dk"
+    ],
+    " guyana": [
+        "bsbamb@um.dk",
+        "bsbamb@um.dk",
+        "robsto@umgate.dk"
+    ],
+    " haiti": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "erimad@umgate.dk",
+        "sylmad@umgate.dk"
+    ],
+    " honduras": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "osmmad@umgate.dk"
+    ],
+    " hviderusland": [
+        "mowamb@um.dk",
+        "mowamb@um.dk"
+    ],
+    " india": [
+        "delamb@um.dkVisa%20telephone%20hours:%20Tuesday%20&%20Thursday%202-3%20pm",
+        "delambvisa@um.dk",
+        "delambrw@um.dk",
+        "e-maildelambconsular@um.dk"
+    ],
+    " indonesia": [
+        "jktamb@um.dk"
+    ],
+    " irak": [
+        "um@um.dk",
+        "bbb@um.dk",
+        "um@um.dk",
+        "bbb@um.dk",
+        "dara.alkhayat@yahoo.com",
+        "um@um.dk",
+        "bbb@um.dk",
+        "dara.alkhayat@yahoo.com.Address"
+    ],
+    " iran": [
+        "thramb@um.dk",
+        "thrambvisa@um.dk"
+    ],
+    " ireland": [
+        "E-mail: dubamb@um.dk",
+        "dubamb@um.dk"
+    ],
+    " island": [
+        "rekamb@um.dk"
+    ],
+    " israel": [
+        "tlvamb@um.dk"
+    ],
+    " italien": [
+        "romamb@um.dk"
+    ],
+    " jamaica": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "johram@umgate.dk"
+    ],
+    " japan": [
+        "tyoamb@um.dk",
+        "tyoambcon@um.dk"
+    ],
+    " kapverdiske \u00f8er": [
+        "lisamb@um.dk",
+        "lisamb@um.dk"
+    ],
+    " kasakhstan": [
+        "mowamb@um.dk",
+        "mowamb@um.dk",
+        "bishkek@umgate.dk"
+    ],
+    " kenya": [
+        "nboamb@um.dk"
+    ],
+    " kirgisistan": [
+        "mowamb@um.dk"
+    ],
+    " kiribati": [
+        "sinamb@um.dk",
+        "sinamb@um.dk"
+    ],
+    " korea": [
+        "selamb@um.dk"
+    ],
+    " kosovo": [
+        "vieamb@um.dk",
+        "vieamb@um.dk",
+        "pristina@umgate.dk"
+    ],
+    " kuwait": [
+        "ruhamb@um.dk",
+        "ruhamb@um.dk"
+    ],
+    " laos": [
+        "hanamb@um.dk",
+        "hanamb@um.dk"
+    ],
+    " lebanon": [
+        "beyamb@um.dk",
+        "beyamb@um.dk?subject=beyamb@um.dk"
+    ],
+    " lesotho": [
+        "pryamb@um.dk",
+        "pryamb@um.dk",
+        "simpha@umgate.dk"
+    ],
+    " letland": [
+        "rixamb@um.dk"
+    ],
+    " liberia": [
+        "accamb@um.dk",
+        "accamb@um.dk",
+        "kolback@gmail.com"
+    ],
+    " libyen": [
+        "rbaamb@um.dk",
+        "rbaamb@um.dk"
+    ],
+    " liechtenstein": [
+        "beramb@um.dk",
+        "beramb@um.dk",
+        "vaduz@umgate.dk"
+    ],
+    " litauen ": [
+        "vnoamb@um.dk"
+    ],
+    " luxembourg": [
+        "bruamb@um.dk",
+        "bruamb@um.dk",
+        "srband@umgate.dk"
+    ],
+    " madagaskar": [
+        "kmtamb@um.dk",
+        "kmtamb@um.dk",
+        "sealtana@moov.mg"
+    ],
+    " malawi": [
+        "daramb@um.dk",
+        "daramb@um.dk",
+        "krimol@umgate.dk"
+    ],
+    " malaysia": [
+        "kulamb@um.dk"
+    ],
+    " maldiverne": [
+        "delamb@um.dk",
+        "delamb@um.dk",
+        "male@umgate.dk"
+    ],
+    " mali": [
+        "bkoamb@um.dk"
+    ],
+    " malta": [
+        "romamb@um.dk",
+        "romamb@um.dk",
+        "valletta@umgate.dk"
+    ],
+    " marokko": [
+        "dxbgklvisa@um.dk",
+        "rbaamb@um.dk"
+    ],
+    " marshall- \u00f8erne": [
+        "sinamb@um.dk",
+        "sinamb@um.dk"
+    ],
+    " mauretanien": [
+        "dxbgklvisa@um.dk",
+        "rbaamb@um.dk"
+    ],
+    " mauritius": [
+        "daramb@um.dk",
+        "daramb@um.dk"
+    ],
+    " mexico": [
+        "mexamb@um.dk"
+    ],
+    " mikronesien": [
+        "sinamb@um.dk",
+        "sinamb@um.dk"
+    ],
+    " moldova": [
+        "buhamb@um.dk",
+        "buhamb@um.dk"
+    ],
+    " monaco": [
+        "paramb@um.dk",
+        "paramb@um.dk",
+        "monaco@umgate.dk"
+    ],
+    " mongoliet": [
+        "bjsamb@um.dk",
+        "bjsamb@um.dk",
+        "odjamb@umgate.dk",
+        "info@ulan.diplo.de",
+        "Saranchimeg@mcs.msn"
+    ],
+    " montenegro": [
+        "begamb@um.dk",
+        "begamb@um.dk",
+        "podgorica@umgate.dk"
+    ],
+    " mozambique": [
+        "pryamb@um.dk",
+        "pryamb@um.dk"
+    ],
+    " myanmar": [
+        "ygnamb@um.dk",
+        "bbb@um.dk"
+    ],
+    " namibia": [
+        "pryamb@um.dk",
+        "pryamb@um.dk",
+        "klaend@umgate.dk"
+    ],
+    " nauru": [
+        "cbramb@um.dk",
+        "cbramb@um.dk"
+    ],
+    " nederlandene": [
+        "haaamb@um.dk"
+    ],
+    " nederlandske antiller": [
+        "haaamb@um.dk",
+        "haaamb@um.dk",
+        "chrhan@umgate.dk",
+        "edwvee@umgate.dk"
+    ],
+    " nepal": [
+        "delamb@um.dk",
+        "delamb@um.dk",
+        "hardha@umgate.dk"
+    ],
+    " new zealand": [
+        "cbramb@um.dk",
+        "cbramb@um.dk",
+        "ingmor@umgate.dk",
+        "karpul@umgate.dk",
+        "palpet@umgate.dk"
+    ],
+    " niger": [
+        "ouaamb@um.dk",
+        "ouaambvisa@um.dk"
+    ],
+    " nordmakedonien": [
+        "olipan@umgate.dk",
+        "begamb@um.dk",
+        "ambassaden.skopje@foreign.ministry.se",
+        "BBB@um.dk",
+        "copenhagen@mfa.gov.mk"
+    ],
+    " norge": [
+        "oslamb@um.dk"
+    ],
+    " oman": [
+        "ruhamb@um.dk",
+        "ruhamb@um.dk",
+        "muscat@umgate.dk"
+    ],
+    " pakistan ": [
+        "ISBAMBVISA@UM.DK",
+        "ISBAMBVISA@UM.DK",
+        "simokj@um.dk",
+        "isbambvisa@um.dk"
+    ],
+    " palau": [
+        "mnlamb@um.dk",
+        "mnlamb@um.dk",
+        "mnlamb@um.dk"
+    ],
+    " panama": [
+        "bogamb@um.dk",
+        "bogamb@um.dk",
+        "nieped@umgate.dk",
+        "adrhol@umgate.dk"
+    ],
+    " papua ny guinea": [
+        "jktamb@um.dk",
+        "jktamb@um.dk",
+        "port-moresby@umgate.dk"
+    ],
+    " paraguay": [
+        "bueamb@um.dk",
+        "bueamb@um.dk",
+        "asuncion@umgate.dk"
+    ],
+    " peru": [
+        "sclamb@um.dk",
+        "sclamb@um.dk",
+        "lima@umgate.dk",
+        "callao@umgate.dk"
+    ],
+    " polen": [
+        "wawamb@um.dk"
+    ],
+    " portugal": [
+        "lisamb@um.dk"
+    ],
+    " qatar": [
+        "auhamb@um.dk",
+        "auhamb@um.dk"
+    ],
+    " rum\u00e6nien": [
+        "buhamb@um.dk"
+    ],
+    " rusland": [
+        "mowamb@um.dk"
+    ],
+    " rwanda": [
+        "kmtamb@um.dk",
+        "kmtamb@um.dk"
+    ],
+    " saint kitts og nevis": [
+        "mexamb@um.dk",
+        "mexamb@um.dk"
+    ],
+    " saint lucia": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "petkou@umgate.dk"
+    ],
+    " saint vincent og grenadinerne": [
+        "mexamb@um.dk",
+        "mexamb@um.dk"
+    ],
+    " salomon\u00f8erne": [
+        "sinamb@um.dk",
+        "sinamb@um.dk"
+    ],
+    " samoa": [
+        "cbramb@um.dk",
+        "cbramb@um.dk"
+    ],
+    " san marino": [
+        "romamb@um.dk",
+        "romamb@um.dk"
+    ],
+    " saudi arabien": [
+        "ruhamb@um.dk"
+    ],
+    " schweiz": [
+        "beramb@um.dk",
+        "beramb@um.dk",
+        "basel@umgate.dk",
+        "zurich@umgate.dk"
+    ],
+    " senegal": [
+        "bkoamb@um.dk",
+        "dkrconsul@maersk.com"
+    ],
+    " serbia": [
+        "begamb@um.dk",
+        "begamb@um.dk"
+    ],
+    " seychellerne": [
+        "nboamb@um.dk",
+        "nboamb@um.dk",
+        "victoria@umgate.dk"
+    ],
+    " sierra leone": [
+        "accamb@um.dk",
+        "accambvisa@um.dk",
+        "danishconsulatesil@obts.dk",
+        "fda@obts.dk"
+    ],
+    " singapore": [
+        "sinamb@um.dk"
+    ],
+    " slovakiet": [
+        "vieamb@um.dk",
+        "vieamb@um.dk",
+        "bratislava@umgate.dk"
+    ],
+    " slovenien": [
+        "vieamb@um.dk",
+        "vieamb@um.dk",
+        "ljubljana@umgate.dk"
+    ],
+    " somalia": [
+        "nboamb@um.dk"
+    ],
+    " south africa": [
+        "pryamb@um.dk"
+    ],
+    " south sudan": [
+        "addamb@um.dk",
+        "addamb@um.dk",
+        "bbb@um.dk"
+    ],
+    " spanien": [
+        "madamb@um.dk"
+    ],
+    " sri lanka": [
+        "delamb@um.dk",
+        "delamb@um.dk",
+        "colombo@umgate.dk"
+    ],
+    " sudan": [
+        "addamb@um.dk",
+        "addamb@um.dk",
+        "salela@umgate.dk",
+        "oslo@mofa.gov.sd",
+        "visa@sudanoslo.no",
+        "bbb@um.dk",
+        "salela@umgate.dk"
+    ],
+    " surinam": [
+        "bsbamb@um.dk",
+        "bsbamb@um.dk",
+        "flivri@umgate.dk"
+    ],
+    " sverige": [
+        "stoamb@um.dk"
+    ],
+    " syrien": [
+        "beyamb@um.dk"
+    ],
+    " s\u00e3o tom\u00e9 og pr\u00edncipe": [
+        "lisamb@um.dk",
+        "lisamb@um.dk"
+    ],
+    " tadsjikistan": [
+        "mowamb@um.dk",
+        "mowamb@um.dk"
+    ],
+    " tanzania": [
+        "daramb@um.dk",
+        "daramb@um.dk"
+    ],
+    " tchad": [
+        "ouaamb@um.dk",
+        "ouaamb@um.dk"
+    ],
+    " thailand": [
+        "bkkamb@um.dk",
+        "bkkvisa@um.dk",
+        "bkkambbor@um.dk",
+        "bkkambtc@um.dk"
+    ],
+    " the philippines": [],
+    " the united kingdom": [
+        "lonamb@um.dk"
+    ],
+    " the usa": [
+        "wasamb@um.dk"
+    ],
+    " tjekkiet": [
+        "prgamb@um.dk"
+    ],
+    " togo": [
+        "accamb@um.dk",
+        "accamb@um.dk",
+        "lome@umgate.dk"
+    ],
+    " tonga": [
+        "cbramb@um.dk",
+        "cbramb@um.dk"
+    ],
+    " trinidad og tobago": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "ravdol@umgate.dk"
+    ],
+    " tunesien": [
+        "algamb@um.dk",
+        "algamb@um.dk",
+        "tunis@umgate.dk",
+        "hamenn@umgate.dk",
+        "sousse@umgate.dk"
+    ],
+    " turkmenistan": [
+        "mowamb@um.dk",
+        "mowamb@um.dk"
+    ],
+    " tuvalu": [
+        "cbramb@um.dk",
+        "cbramb@um.dk"
+    ],
+    " tyrkiet": [
+        "ankamb@um.dk",
+        "ankambvk@um.dk",
+        "istgkl@um.dk"
+    ],
+    " tyskland": [
+        "beramb@um.dk",
+        "BBB@um.dk"
+    ],
+    " uganda": [
+        "kmtamb@um.dk"
+    ],
+    " ukraine": [
+        "ievamb@um.dk",
+        "ievambconsular@um.dk"
+    ],
+    " ungarn": [
+        "budamb@um.dk"
+    ],
+    " uruguay": [
+        "bueamb@um.dk",
+        "bueamb@um.dk",
+        "montevideo@umgate.dk"
+    ],
+    " usbekistan": [
+        "mowamb@um.dk",
+        "mowamb@um.dk"
+    ],
+    " vanuatu": [
+        "cbramb@um.dk",
+        "cbramb@um.dk"
+    ],
+    " vatikanstaten": [
+        "bruamb@um.dk"
+    ],
+    " venezuela": [
+        "caracas@umgate.dk",
+        ""
+    ],
+    " vietnam": [
+        "hanamb@um.dk",
+        "bbb@um.dk",
+        "hanamb@um.dk"
+    ],
+    " yemen": [
+        "ruhamb@um.dk",
+        "ruhamb@um.dk"
+    ],
+    " zambia": [
+        "daramb@um.dk",
+        "honcon@phiri.net"
+    ],
+    " zimbabwe": [
+        "pryamb@um.dk",
+        "pryamb@um.dk",
+        "leiree@umgate.dk"
+    ],
+    " \u00e6kvatorialguinea": [
+        "abvamb@um.dk",
+        "abvamb@um.dk"
+    ],
+    " \u00f8strig": [],
+    " \u00f8sttimor": [
+        "jktamb@um.dk",
+        "jktamb@um.dk"
+    ],
+    "dinamarca en colombia": [
+        "bogamb@um.dk"
+    ],
+    "nicaragua": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "niemol@umgate.dk"
+    ],
+    "representative office of denmark, ramallah": [
+        "ramrkt@um.dk"
+    ],
+    "taani eestis": [
+        "tllamb@um.dk"
+    ],
+    "the trade council of denmark, taipei": [
+        "Other inquiry: tpehkt@um.dk",
+        "Visa inquiry: tpehktvisa@um.dk"
+    ],
+    "\u00a0el salvador": [
+        "mexamb@um.dk",
+        "mexamb@um.dk",
+        "enrpri@umgate.dk"
+    ]
+}
